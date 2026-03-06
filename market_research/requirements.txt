@@ -1,0 +1,6 @@
+# Market Research Tool dependencies
+pytrends>=4.9.2        # Google Trends unofficial API
+praw>=7.7.1            # Reddit API wrapper
+requests>=2.31.0       # HTTP client (Product Hunt, Hacker News)
+python-dotenv>=1.0.0   # .env file loading
+schedule>=1.2.0        # Daily job scheduler

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / models (large files)
+data/
+*.pkl
+
+# Environment
+.env
+
+# Market research tool runtime artifacts
+market_research/last_run.json
+market_research/*.json
